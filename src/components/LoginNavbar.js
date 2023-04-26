@@ -18,7 +18,7 @@ const LoginNavbar = () => {
           </span>
           <div className="flex items-center justify-end pr-4">
             <div className="flex gap-4">
-              <Link href="/authenticator">
+            <Link href="https://pmac.vercel.app/authenticator">
                 <span className="flex items-center h-[25px] text-white text-lg font-semibold bg-secondary hover:bg-gray-900 p-4 rounded-sm group cursor-pointer hover:shadow-lg ">
                   Sign up
                 </span>
